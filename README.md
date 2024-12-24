@@ -1,4 +1,4 @@
 # DemoProject2
-Author -> Abhishek Chaubey
+Author -> Abhishek (co-founder)
 <br>
 Age -> 18
